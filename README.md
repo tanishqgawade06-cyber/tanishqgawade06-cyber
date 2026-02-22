@@ -1,4 +1,15 @@
+💫 Hi 👋, I'm Tanishq Gawade
+**A passionate AI Engineer || DevOps Engineer ||
 
+Email Me 👉 ✉️ **tanishqgawade.06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:**  LLM-Based Intelligent Support Agent 
+- 🌱 **I’m currently learning:** Open API , Hugging Face
+- 👯 **I’m looking to collaborate on:**  Resume Screening System Using NLP
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** tanishqgawade.06@gmail.com 
+- 😄 **Pronouns:** He 
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishq._0111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-gawade-62310a375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqgawade.06@gmail.com) 
 
@@ -8,6 +19,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=tanishqgawade06-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tanishqgawade06-cyber&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqgawade06-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanishqgawade06-cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
